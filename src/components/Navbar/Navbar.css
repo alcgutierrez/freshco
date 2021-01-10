@@ -1,0 +1,11 @@
+.NavItems {
+    background-color: #4f4f4f;
+    padding: 0.5em;
+}
+
+.nav-name {
+    padding-left: 1em;
+    color: #ffffff;
+    font-size: 2em
+}
+

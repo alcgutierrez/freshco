@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/freshco/static/css/main.9be9eb9c.chunk.css",
+    "main.js": "/freshco/static/js/main.9730302c.chunk.js",
+    "main.js.map": "/freshco/static/js/main.9730302c.chunk.js.map",
+    "runtime-main.js": "/freshco/static/js/runtime-main.7bc66df0.js",
+    "runtime-main.js.map": "/freshco/static/js/runtime-main.7bc66df0.js.map",
+    "static/js/2.c1c2e58d.chunk.js": "/freshco/static/js/2.c1c2e58d.chunk.js",
+    "static/js/2.c1c2e58d.chunk.js.map": "/freshco/static/js/2.c1c2e58d.chunk.js.map",
+    "index.html": "/freshco/index.html",
+    "static/css/main.9be9eb9c.chunk.css.map": "/freshco/static/css/main.9be9eb9c.chunk.css.map",
+    "static/js/2.c1c2e58d.chunk.js.LICENSE.txt": "/freshco/static/js/2.c1c2e58d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc66df0.js",
+    "static/js/2.c1c2e58d.chunk.js",
+    "static/css/main.9be9eb9c.chunk.css",
+    "static/js/main.9730302c.chunk.js"
+  ]
+}

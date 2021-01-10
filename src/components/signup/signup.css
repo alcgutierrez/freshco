@@ -1,0 +1,68 @@
+.signup-block {
+    background-color: #f2f2f2;
+    margin: 4em 4em 4em 4em;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px 2px rgba(0, 0, 0, 0.15);
+}
+.signup {
+    font-size: 1.5em;
+    padding: 3em 1em 1em 1em;
+    color:#4F4F4F;
+    text-align: center;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    padding: 1em 4em 2em 4em;
+}
+
+.food-bank, .email, .password {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1.3em;
+}
+
+.food-bank-label, .email-label, .password-label {
+    font-weight: 600;
+    color: #4F4F4F;
+}
+
+.password {
+    font-style: bold;
+    color: #4F4F4F;
+}
+
+input[type=text], input[type=password] {
+    border: 2px solid #BDBDBD;
+    border-radius: 5px;
+    height: 4em;
+    font-size: 1.005em;
+    padding-left: 1.5em;
+    
+}
+
+input[type=text]:focus {
+    border: 3px solid #E0E293;
+}
+
+input[type=password]:focus {
+    border: 3px solid #E0E293;
+  }
+
+.signup-footer {
+    padding: 5em 4em 5em 4em;
+}
+
+.signup-btn {
+    height: 50px;
+    width: 200px;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #219653;
+    border-color: #219653;
+    border-style: solid;
+    border-radius: 5px;
+}
